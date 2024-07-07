@@ -1,0 +1,4 @@
+# Pretty
+```bash
+npx prettier --write --plugin=prettier-plugin-solidity 'contracts/**/*.sol'
+```

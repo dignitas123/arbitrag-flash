@@ -2,5 +2,9 @@
   "dependencies": {
     "@aave/protocol-v2": "^1.0.1",
     "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2",
+    "prettier-plugin-solidity": "^1.3.1"
   }
 }
